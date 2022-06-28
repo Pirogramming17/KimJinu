@@ -1,0 +1,6 @@
+/* 선택자 */
+/* html 에 적용된 속성이 있으면 디브에 씌어지고 계속 이어서 덮어 씌어짐     */
+#header-center {
+  margin: 0 auto;
+  width: 1080px;
+}
