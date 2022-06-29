@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 /* 선택자 */
 /* html 에 적용된 속성이 있으면 디브에 씌어지고 계속 이어서 덮어 씌어짐     */
 #header-center {
@@ -13,6 +16,7 @@
   background-image: url(sp_main.png); /* 여기 채우기@@@@@@@@@@@@@@@@@@@@@@@ */
   background-position: -4px -4px;
   background-repeat: no-repeat;
+  vertical-align: middle;
 }
 #header-search a {
   text-decoration: none;
@@ -34,6 +38,7 @@
   margin-left: 20px;
   padding: 12px 0 12px 10px;
   border: 2px solid #03cf5d;
+  vertical-align: middle;
 }
 
 .blind {
@@ -43,4 +48,9 @@
   margin: -1px;
   width: 1px;
   height: 1px;
+}
+#header-search fieldset input {
+  border: none;
+  padding: 0;
+  outline: none;
 }
