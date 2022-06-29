@@ -8,6 +8,21 @@
   width: 1080px;
   /* 픽셀은 상대적인 개념 ->> 모니터의 개념을 알아야 한다. */
 }
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+#fixed {
+  position: fixed;
+  top: 50px;
+  right: 50px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
 /* h1 직접 안 찾고 부모를 통해 찾을 수도 있음 =자식- 선택자*/
 #header-search h1 {
   width: 198px;

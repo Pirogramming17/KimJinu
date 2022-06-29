@@ -1,0 +1,10 @@
+.top_bar {
+  display: flex;
+  justify-content: space-around;
+}
+.main {
+  display: flex;
+}
+.main_login {
+  border: 2px solid black;
+}
