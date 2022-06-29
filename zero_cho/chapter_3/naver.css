@@ -1,0 +1,32 @@
+/* 선택자 */
+/* html 에 적용된 속성이 있으면 디브에 씌어지고 계속 이어서 덮어 씌어짐     */
+#header-center {
+  margin: 0 auto;
+  width: 1080px;
+  /* 픽셀은 상대적인 개념 -> 모니터의 개념을 알아야 한다. */
+}
+/* h1 직접안 찾고 부모를 통해 찾을 수도 있음 == 자식 선택자*/
+#header-search h1 {
+  width: 280px;
+  display: inline-block;
+}
+/*   #header-center h1 {
+      자손 선택자
+}
+*/
+#header-search h2 {
+  display: none;
+}
+#header-search fieldset {
+  width: 520px;
+  display: inline-block;
+}
+
+.blind {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+  width: 1px;
+  height: 1px;
+}
