@@ -5,21 +5,35 @@
   width: 1080px;
   /* 픽셀은 상대적인 개념 ->> 모니터의 개념을 알아야 한다. */
 }
-/* h1 직접안 찾고 부모를 통해 찾을 수도 있음 =자식- 선택자*/
+/* h1 직접 안 찾고 부모를 통해 찾을 수도 있음 =자식- 선택자*/
 #header-search h1 {
-  width: 280px;
+  width: 198px;
+  height: 48px;
   display: inline-block;
+  background-image: url(sp_main.png); /* 여기 채우기@@@@@@@@@@@@@@@@@@@@@@@ */
+  background-position: -4px -4px;
+  background-repeat: no-repeat;
+}
+#header-search a {
+  text-decoration: none;
 }
 /*   #header-center h1 {
       자손 선택자
 }
 */
+#header-search h1 span {
+  display: none;
+}
 #header-search h2 {
   display: none;
 }
 #header-search fieldset {
-  width: 520px;
+  width: 521px;
+  height: 49px;
   display: inline-block;
+  margin-left: 20px;
+  padding: 12px 0 12px 10px;
+  border: 2px solid #03cf5d;
 }
 
 .blind {
