@@ -13,10 +13,13 @@
   width: 198px;
   height: 48px;
   display: inline-block;
-  background-image: url(sp_main.png); /* 여기 채우기@@@@@@@@@@@@@@@@@@@@@@@ */
-  background-position: -4px -4px;
+  background-image: url(/zero_cho/chapter_4/logo_recent.png); /* 여기 채우기 */
+  background-position: 0 -158px;
+  background-size: 430px 415px;
   background-repeat: no-repeat;
   vertical-align: middle;
+  position: relative;
+  top: -6px;
 }
 #header-search a {
   text-decoration: none;
@@ -32,8 +35,8 @@
   display: none;
 }
 #header-search fieldset {
-  width: 521px;
-  height: 49px;
+  width: 474px;
+  height: 50px;
   display: inline-block;
   margin-left: 20px;
   padding: 12px 0 12px 10px;
@@ -57,6 +60,7 @@
   vertical-align: top;
   width: 405px;
   height: 23px;
+  display: inline-block;
 }
 #header-search fieldset button {
   width: 49px;
@@ -69,10 +73,12 @@
   top: -2px;
 }
 #search-iamge {
-  background-image: url(sp_main.png);
-  background-position: -3px -60px;
+  background-image: url(/zero_cho/chapter_4/logo_recent.png);
+  background-position: -420px 0;
   background-repeat: no-repeat;
   width: 21px;
   height: 21px;
+  vertical-align: top;
   display: inline-block;
+  background-size: 457px 434px;
 }
