@@ -1,6 +1,3 @@
-x = 5
- 
-if x % 2 == 0:
-    print('짝수')
-else:
-    print('홀수')
+a=int(input())
+for i in range(1,10):
+    print(a,'*',i,'=',a*i )
