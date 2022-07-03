@@ -39,3 +39,6 @@
 
 [9.4 SIMSA]<br>
 <img width="372" alt="스크린샷 2022-07-04 오전 1 46 08" src="https://user-images.githubusercontent.com/81579401/177049262-286a019a-d744-4ef8-b789-5eacfee90ddd.png">
+
+[10.3 QUIZ] <br>
+<img width="374" alt="스크린샷 2022-07-04 오전 1 48 13" src="https://user-images.githubusercontent.com/81579401/177049347-54a452d6-72a4-4737-aefb-198e7f7bcfb2.png">
