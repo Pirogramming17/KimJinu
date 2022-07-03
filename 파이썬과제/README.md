@@ -7,3 +7,6 @@
 
 [5.4 QUIZ]
 <img width="380" alt="5 4 quiz" src="https://user-images.githubusercontent.com/81579401/177034556-a63e6141-c460-4c0f-9526-411e8b23a875.png">
+
+[5.6 SIMSA]
+<img width="366" alt="5 6 simsa" src="https://user-images.githubusercontent.com/81579401/177034583-bceef536-4622-46d4-ad72-1f3f3429c6c7.png">
