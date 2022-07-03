@@ -28,3 +28,8 @@
 
 [8.3 QUIZ]<br>
 <img width="367" alt="스크린샷 2022-07-04 오전 1 28 39" src="https://user-images.githubusercontent.com/81579401/177048668-4bd9faf8-dda5-44c2-941a-1199914fea24.png">
+
+[8.5 SIMSA]<br>
+<img width="365" alt="스크린샷 2022-07-04 오전 1 38 39" src="https://user-images.githubusercontent.com/81579401/177048985-01cde518-e512-4eb7-aad3-3847afbc31ba.png">
+
+<img width="678" alt="스크린샷 2022-07-04 오전 1 38 19" src="https://user-images.githubusercontent.com/81579401/177048977-85a224ae-d65c-4866-992f-7c62fa100b90.png">
