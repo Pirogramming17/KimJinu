@@ -13,3 +13,6 @@
 
 [6.5 quiz] <br>
 <img width="411" alt="6 5 quiz" src="https://user-images.githubusercontent.com/81579401/177047249-7fac9c17-771a-41a8-aadf-8acb65147fcf.png">
+
+[6.7 SIMSA] <br>
+<img width="380" alt="스크린샷 2022-07-04 오전 12 57 20" src="https://user-images.githubusercontent.com/81579401/177047541-c541334d-1da8-4a94-bcda-4adb209afb8e.png">
