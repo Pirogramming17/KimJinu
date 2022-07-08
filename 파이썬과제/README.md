@@ -124,5 +124,11 @@
 [36.7 QUIZ]<br>
 <img width="374" alt="스크린샷 2022-07-08 오후 10 37 23" src="https://user-images.githubusercontent.com/81579401/178002880-ca7acfa5-8847-4648-b737-47e297c5f5cb.png">
 
-[36.9 SIMSA<br>
+[36.9 SIMSA]<br>
 <img width="386" alt="스크린샷 2022-07-08 오후 10 38 55" src="https://user-images.githubusercontent.com/81579401/178003128-4be130df-3a3b-439b-88f0-9e2ed8d76625.png">
+
+[38.5 QUIZ]<br>
+<img width="417" alt="스크린샷 2022-07-09 오전 1 58 23" src="https://user-images.githubusercontent.com/81579401/178037242-8563c728-22f1-4305-8d9a-9e6baf17bfde.png">
+
+[38.7 SIMSA]<br>
+<img width="373" alt="스크린샷 2022-07-09 오전 2 00 35" src="https://user-images.githubusercontent.com/81579401/178037566-5cb0849b-d6a4-4223-9d40-4834b5efd7c0.png">
